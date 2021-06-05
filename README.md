@@ -26,3 +26,16 @@ Plasma Theme
 -------------
 
 Added icons: audacious.svg, elisa.svg
+
+Changelog: 05.06.2021.
+----------------------
+
+GTK-Theme
+----------
+
+Fixed icons: button-active, button-active, button-insensitive
+
+Plasma Themes
+-------------
+
+Added icons: kruler.svg, kup.svg, dropbox.svg
