@@ -39,3 +39,18 @@ Plasma Themes
 -------------
 
 Added icons: kruler.svg, kup.svg, dropbox.svg
+
+Changelog: 17.06.2021.
+-----------------------
+
+GTK Theme
+---------
+
+Fixed icons: checkbox-checked-active, checkbox-checked-hover, checkbox-checked-insensitive, checkbox-checked
+
+Plasma Themes
+-------------
+
+Enable "Adaptive Transparency" for Plasma 5.22
+
+Fixed icon: elisa.svg
