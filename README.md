@@ -54,3 +54,16 @@ Plasma Themes
 Enable "Adaptive Transparency" for Plasma 5.22
 
 Fixed icon: elisa.svg
+
+Changelog: 25.06.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icons: treeview-separator-ltr, treeview-separator-rtl
+
+Plasma Themes
+--------------
+
+Added icons: juk.svg, emblem.svg, kdf.svg
