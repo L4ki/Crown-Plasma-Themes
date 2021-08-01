@@ -80,3 +80,11 @@ Plasma Themes
 -------------
 
 Added icons: software.svg, utilities.svg
+
+Changelog: 01.08.2021.
+---------------------
+
+Plasma THeme
+------------
+
+Fixed widget: tasks.svg
