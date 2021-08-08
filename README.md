@@ -88,3 +88,8 @@ Plasma THeme
 ------------
 
 Fixed widget: tasks.svg
+
+Changelog: 08.08.2021.
+---------------------
+
+Fixed widgets: action-overlays.svg, actionbutton.svg
