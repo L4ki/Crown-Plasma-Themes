@@ -84,12 +84,15 @@ Added icons: software.svg, utilities.svg
 Changelog: 01.08.2021.
 ---------------------
 
-Plasma THeme
+Plasma Theme
 ------------
 
 Fixed widget: tasks.svg
 
 Changelog: 08.08.2021.
 ---------------------
+
+Plasma Theme
+------------
 
 Fixed widgets: action-overlays.svg, actionbutton.svg
