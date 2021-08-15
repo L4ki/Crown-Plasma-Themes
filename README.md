@@ -96,3 +96,9 @@ Plasma Theme
 ------------
 
 Fixed widgets: action-overlays.svg, actionbutton.svg
+
+
+Changelog: 15.08.2021.
+---------------------
+
+Fixed widgets: lineedit.svg, tasks.svg
