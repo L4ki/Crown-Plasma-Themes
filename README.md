@@ -102,3 +102,13 @@ Changelog: 15.08.2021.
 ---------------------
 
 Fixed widgets: lineedit.svg, tasks.svg
+
+Changelog: 02.09.2021.
+----------------------
+
+Plasma Theme
+------------
+
+Fixed icon: software.svg
+
+Fixed widgets: checkmarks.svg, viewitem.svg
