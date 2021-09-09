@@ -112,3 +112,11 @@ Plasma Theme
 Fixed icon: software.svg
 
 Fixed widgets: checkmarks.svg, viewitem.svg
+
+Changelog: 09.09.2021.
+----------------------
+
+Plasma Theme
+------------
+
+Fixed icons: konv_message.svg, konversation.svg
