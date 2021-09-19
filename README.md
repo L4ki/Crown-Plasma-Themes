@@ -120,3 +120,11 @@ Plasma Theme
 ------------
 
 Fixed icons: konv_message.svg, konversation.svg
+
+Changelog: 19.09.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed icons: ktorrent.svg, klipper.svg
