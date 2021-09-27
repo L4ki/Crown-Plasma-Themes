@@ -128,3 +128,8 @@ Plasma Theme
 -------------
 
 Fixed icons: ktorrent.svg, klipper.svg
+
+Changelog: 27.09.2021.
+---------------------
+
+Fixed widgets: scrollbar.svg, listitem.svg
