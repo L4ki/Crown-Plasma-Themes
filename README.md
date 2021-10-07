@@ -133,3 +133,11 @@ Changelog: 27.09.2021.
 ---------------------
 
 Fixed widgets: scrollbar.svg, listitem.svg
+
+Changelog: 07.10.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed icons: disk.svg, device.svg
