@@ -141,3 +141,11 @@ Plasma Theme
 -------------
 
 Fixed icons: disk.svg, device.svg
+
+Changelog: 15.10.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed icon: system.svg
