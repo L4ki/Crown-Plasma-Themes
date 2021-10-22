@@ -149,3 +149,11 @@ Plasma Theme
 -------------
 
 Fixed icon: system.svg
+
+Changelog: 22.10.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed widgets: arrows.svg, background.svg
