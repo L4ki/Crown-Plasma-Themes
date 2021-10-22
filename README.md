@@ -156,4 +156,6 @@ Changelog: 22.10.2021.
 Plasma Theme
 -------------
 
+Enabled Blured Widgets for Plasma 5.23
+
 Fixed widgets: arrows.svg, background.svg
