@@ -159,3 +159,11 @@ Plasma Theme
 Enabled Blurred Widgets for Plasma 5.23
 
 Fixed widgets: arrows.svg, background.svg
+
+Changelog: 29.10.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed widgets: plasmoidheading.svg
