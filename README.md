@@ -167,3 +167,12 @@ Plasma Theme
 -------------
 
 Fixed widgets: plasmoidheading.svg
+
+Changelog: 05.11.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed icon: update.svg
+
