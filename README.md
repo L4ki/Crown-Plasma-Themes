@@ -176,3 +176,11 @@ Plasma Theme
 
 Fixed icon: update.svg
 
+Changelog: 12.11.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed widget: arrows.svg
+
