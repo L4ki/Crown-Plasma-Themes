@@ -32,12 +32,12 @@
      inkscape:cy="-0.26424871"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -88,7 +88,7 @@
          y="15.610413"
          transform="matrix(0,1,1,0,0,0)" />
       <path
-         style="fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"
          id="path4170"
          inkscape:connector-curvature="0"
@@ -110,7 +110,7 @@
          inkscape:connector-curvature="0"
          id="path4176"
          d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"
-         style="fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0700043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          class="ColorScheme-Text" />
     </g>
     <g
