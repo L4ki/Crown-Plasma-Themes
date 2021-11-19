@@ -184,3 +184,12 @@ Plasma Theme
 
 Fixed widget: arrows.svg
 
+
+Changelog: 19.11.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed widget: clock.svg
+
