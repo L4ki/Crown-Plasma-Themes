@@ -193,3 +193,11 @@ Plasma Theme
 
 Fixed widget: clock.svg
 
+Changelog: 19.11.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed icon: compass.svg
+
