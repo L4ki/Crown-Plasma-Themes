@@ -201,3 +201,11 @@ Plasma Theme
 
 Fixed icon: compass.svg
 
+Changelog: 08.12.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed widget: panel-background.svg
+
