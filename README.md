@@ -217,3 +217,11 @@ Plasma Theme
 
 Fixed widget: tasks.svg
 
+Changelog: 24.12.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: redshift.svg
+
