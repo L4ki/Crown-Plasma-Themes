@@ -225,3 +225,12 @@ Plasma Theme
 
 Update icon: redshift.svg
 
+
+Changelog: 31.12.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: window.svg
+
