@@ -234,3 +234,13 @@ Plasma Theme
 
 Update icon: window.svg
 
+
+Changelog: 07.01.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: calendar.svg
+
+
