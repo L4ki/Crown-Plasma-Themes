@@ -243,4 +243,12 @@ Plasma Theme
 
 Update widget: calendar.svg
 
+Changelog: 19.01.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widgets: bar_meter_horizontal.svg, bar_meter_vertical
+
 
