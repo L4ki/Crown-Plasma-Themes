@@ -251,4 +251,12 @@ Plasma Theme
 
 Update widgets: bar_meter_horizontal.svg, bar_meter_vertical
 
+Changelog: 19.01.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widgets: pager.svg
+
 
