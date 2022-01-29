@@ -257,6 +257,8 @@ Changelog: 29.01.2022.
 Plasma Theme
 -------------
 
+Added: opaque, solid, translucent
+
 Update widgets: pager.svg
 
 
