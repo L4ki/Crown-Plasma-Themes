@@ -261,4 +261,12 @@ Added: opaque, solid, translucent
 
 Update widgets: pager.svg
 
+Changelog: 05.02.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: slider.svg
+
 
