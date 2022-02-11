@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="13.999995"
-   height="13.999996"
-   viewBox="0 0 13.999995 13.999996"
+   width="43.999958"
+   height="44.000061"
+   viewBox="0 0 43.999957 44.00006"
    id="svg2"
    version="1.1"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.352941"
-     inkscape:cx="10.658031"
-     inkscape:cy="-0.26424871"
+     inkscape:zoom="5.6764705"
+     inkscape:cx="30.829016"
+     inkscape:cy="11.186529"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:showpageshadow="false"
      borderlayer="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -51,13 +51,13 @@
      inkscape:pagecheckerboard="0"
      scale-x="1"
      inkscape:document-rotation="0"
-     inkscape:lockguides="true">
+     inkscape:lockguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid4160"
        empspacing="2"
-       originx="-26.641639"
-       originy="-53.812521" />
+       originx="-11.641634"
+       originy="-23.812458" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -74,7 +74,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-26.641642,-291.5459)">
+     transform="translate(-11.641637,-261.54584)">
     <g
        id="right-arrow"
        transform="matrix(0,3.779526,-3.779526,0,1019.1608,217.54588)"
