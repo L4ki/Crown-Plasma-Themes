@@ -269,4 +269,12 @@ Plasma Theme
 
 Update widget: slider.svg
 
+Changelog: 12.02.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: arrows.svg
+
 
