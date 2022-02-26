@@ -277,4 +277,12 @@ Plasma Theme
 
 Update widget: arrows.svg
 
+Changelog: 26.02.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: compass.svg
+
 
